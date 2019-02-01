@@ -1,4 +1,4 @@
-# To-list-app
+# To-do-list-app
 Vanilla JavaScript to-do list app
 
 ## Explination
